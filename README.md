@@ -1,4 +1,4 @@
 
-## 📊 Linguagens
-
-<img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seris0&layout=compact&langs_count=6&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=300"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
